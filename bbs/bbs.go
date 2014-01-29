@@ -2,7 +2,7 @@ package bbs
 
 import (
 	"github.com/cloudfoundry/storeadapter"
-	"github.com/cloudfoundry-incubator/runtime-schema/models"
+	"github.com/onsi-experimental/runtime-schema/models"
 )
 
 //Bulletin Board System/Store
